@@ -1,3 +1,4 @@
+#COMMENT
 stocks : 
   - idStock : 1
     Reference: 8
@@ -401,7 +402,7 @@ stocks :
   - idStock : 20
     Reference: 8
     idBl: 0
-    libeleProduit: "BEURRE DE CACAO"
+    libeleProduit: BEURRE DE CACAO
     quantiteStockinitial: 4
     uniteStock: "PAQUET"
     uniteDetails: "ARTICLE"
