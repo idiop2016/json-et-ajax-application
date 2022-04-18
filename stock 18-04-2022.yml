@@ -1,0 +1,421 @@
+stocks : 
+  - idStock : 1
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 2
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 3
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 4
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 5
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 6
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 7
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 8
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 9
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 10
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 11
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 12
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+    - idStock : 13
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 14
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 15
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 16
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 17
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 18
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 19
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
+  - idStock : 20
+    Reference: 8
+    idBl: 0
+    libeleProduit: "BEURRE DE CACAO"
+    quantiteStockinitial: 4
+    uniteStock: "PAQUET"
+    uniteDetails: "ARTICLE"
+    nbreArticleUniteStock: 12
+    totalArticleStock: 4
+    dateStockage: 2022-02-01
+    quantiteStockCourant: 3
+    retirer: 0
+    dateFinStock: NULL
+    dateExpiration: 30-05-2024
+    prixuniteStock: 7500
+    prixunitaire: 7500
+    prixachat: 5000
+    prixDeRevientDuStock: 0
+    pointControleArticle: 0
+    pointControleUnite: 0
+    iduser: 267
