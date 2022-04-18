@@ -1,0 +1,68 @@
+[
+  {
+    "idPanier":"953",
+    "datePanier":"08-04-2022",
+    "heureanier":"10:26",
+    "numeroFacture": "#953",
+    "user": "IDIOP",
+    "TOTAL" : 1457,
+    "Remise" :57,
+    "NetAPayer" : 1400,
+    "Compte" : "Caisse",
+    "Especes" : 1500,
+    "Rendu" : 100,
+    "lignes":[
+      {
+        "Référence": "BEURRE DE CACAO",
+        "Quantité": 1,
+        "Unité vente": "article",
+        "Prix Unité vente": 700
+      },
+      {
+        "Référence": "BEURRE DE KARITE",
+        "Quantité": 1,
+        "Unité vente": "article",
+        "Prix Unité vente": 700
+      },
+      {
+        "Référence": "HUILE DE SOUMP",
+        "Quantité": 2,
+        "Unité vente": "article",
+        "Prix Unité vente": 750
+      }
+    ]
+  },
+  {
+    "idPanier": "954",
+    "datePanier": "08-04-2022",
+    "heureanier": "10:26",
+    "numeroFacture": "#953",
+    "user": "IDIOP",
+    "TOTAL" : 1457,
+    "Remise" :57,
+    "Net à payer" : 1400,
+    "Compte" : "Caisse",
+    "Espèces" : 1500,
+    "Rendu" : 100,
+    "lignes": [
+      {
+        "Référence": "BEURRE DE KARITE",
+        "Quantité": 1,
+        "Unité vente": "article",
+        "Prix Unité vente": 7
+      },
+      {
+        "Référence": "HUILE DE BISSAP",
+        "Quantité": 1,
+        "Unité vente": "article",
+        "Prix Unité vente": 700
+      },
+      {
+        "Référence": "HUILE DE BAOBAB",
+        "Quantité": 2,
+        "Unité vente": "article",
+        "Prix Unité vente": 750
+      }
+    ]
+  }
+]
