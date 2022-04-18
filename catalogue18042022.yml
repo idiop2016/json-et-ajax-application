@@ -1,77 +1,73 @@
-reference953 :
-  libele: "BEURRE DE CACAO"
-  description: 19-03-2022
-  categorie: "BEURRE"
-  codeBarre: "1132321232326"
-  uniteDetail: "19-03-2022"
-  prixDeRevient : 1457
-  prixUnitaire: 1500
-  uniteStock : "Article"
-  nbreArticleUniteStock": 12
-  prixUniteStock" : 1400
-  tva : true
-
-reference954 :
-  libele : "BEURRE DE KARITE"
-  description: 19-03-2022
-  categorie: "BEURRE"
-  codeBarre: "1132321232326"
-  uniteDetail: "19-03-2022"
-  prixDeRevient : 1457
-  prixUnitaire: 1500
-  uniteStock : "Article"
-  nbreArticleUniteStock": 12
-  prixUniteStock" : 1400
-  tva : true
-
-reference955 :
-  libele : "BEURRE DE JOJOBA"
-  description: 19-03-2022
-  categorie: "BEURRE"
-  codeBarre: "1132321232326"
-  uniteDetail: "19-03-2022"
-  prixDeRevient : 1457
-  prixUnitaire: 1500
-  uniteStock : "Article"
-  nbreArticleUniteStock": 12
-  prixUniteStock" : 1400
-  tva : true
-
-reference956 :
-  libele : "HUILE DE SOUMP"
-  description: 19-03-2022
-  categorie: "BEURRE"
-  codeBarre: "1132321232326"
-  uniteDetail: "19-03-2022"
-  prixDeRevient : 1457
-  prixUnitaire: 1500
-  uniteStock : "Article"
-  nbreArticleUniteStock": 12
-  prixUniteStock" : 1400
-  tva : true
-
-reference957 :
-  libele : "HUILE DE BISSAP"
-  description: 19-03-2022
-  categorie: "BEURRE"
-  codeBarre: "1132321232326"
-  uniteDetail: "19-03-2022"
-  prixDeRevient : 1457
-  prixUnitaire: 1500
-  uniteStock : "Article"
-  nbreArticleUniteStock": 12
-  prixUniteStock" : 1400
-  tva : true
-
-reference958 :
-  libele : "HUILE DE BAOBAB"
-  description: 19-03-2022
-  categorie: "BEURRE"
-  codeBarre: "1132321232326"
-  uniteDetail: "19-03-2022"
-  prixDeRevient : 1457
-  prixUnitaire: 1500
-  uniteStock : "Article"
-  nbreArticleUniteStock": 12
-  prixUniteStock" : 1400
-  tva : true
+catalogue :
+  - reference : 956
+    libele: "BEURRE DE CACAO"
+    description: 19-03-2022
+    categorie: "BEURRE"
+    codeBarre: "1132321232326"
+    uniteDetail: "19-03-2022"
+    prixDeRevient : 1457
+    prixUnitaire: 1500
+    uniteStock : "Article"
+    nbreArticleUniteStock": 12
+    prixUniteStock" : 1400
+    tva : true
+  - reference : 956
+    libele : "BEURRE DE KARITE"
+    description: 19-03-2022
+    categorie: "BEURRE"
+    codeBarre: "1132321232326"
+    uniteDetail: "19-03-2022"
+    prixDeRevient : 1457
+    prixUnitaire: 1500
+    uniteStock : "Article"
+    nbreArticleUniteStock": 12
+    prixUniteStock" : 1400
+    tva : true
+  - reference : 956
+    libele : "BEURRE DE JOJOBA"
+    description: 19-03-2022
+    categorie: "BEURRE"
+    codeBarre: "1132321232326"
+    uniteDetail: "19-03-2022"
+    prixDeRevient : 1457
+    prixUnitaire: 1500
+    uniteStock : "Article"
+    nbreArticleUniteStock": 12
+    prixUniteStock" : 1400
+    tva : true
+  - reference : 956
+    libele : "HUILE DE SOUMP"
+    description: 19-03-2022
+    categorie: "BEURRE"
+    codeBarre: "1132321232326"
+    uniteDetail: "19-03-2022"
+    prixDeRevient : 1457
+    prixUnitaire: 1500
+    uniteStock : "Article"
+    nbreArticleUniteStock": 12
+    prixUniteStock" : 1400
+    tva : true
+  - reference : 956
+    libele : "HUILE DE BISSAP"
+    description: 19-03-2022
+    categorie: "BEURRE"
+    codeBarre: "1132321232326"
+    uniteDetail: "19-03-2022"
+    prixDeRevient : 1457
+    prixUnitaire: 1500
+    uniteStock : "Article"
+    nbreArticleUniteStock": 12
+    prixUniteStock" : 1400
+    tva : true
+  - reference : 956
+    libele : "HUILE DE BAOBAB"
+    description: 19-03-2022
+    categorie: "BEURRE"
+    codeBarre: "1132321232326"
+    uniteDetail: "19-03-2022"
+    prixDeRevient : 1457
+    prixUnitaire: 1500
+    uniteStock : "Article"
+    nbreArticleUniteStock": 12
+    prixUniteStock" : 1400
+    tva : true
