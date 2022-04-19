@@ -1,5 +1,5 @@
-journal:
-  - idPanier: 953
+journal-19042020:
+  - idPanier: 951
     datePanier : 08-04-2022
     heureanier : 10:26
     numeroFacture : 953
@@ -23,7 +23,7 @@ journal:
       Quantité : 2
       Unité vente: article
       Prix Unité vente : 750
-  - idPanier: 953
+  - idPanier: 952
     datePanier : 08-04-2022
     heureanier : 10:26
     numeroFacture : 953
@@ -71,7 +71,7 @@ journal:
       Quantité : 2
       Unité vente: article
       Prix Unité vente : 750
-  - idPanier: 953
+  - idPanier: 954
     datePanier : 08-04-2022
     heureanier : 10:26
     numeroFacture : 953
@@ -95,7 +95,7 @@ journal:
       Quantité : 2
       Unité vente: article
       Prix Unité vente : 750
-  - idPanier: 953
+  - idPanier: 955
     datePanier : 08-04-2022
     heureanier : 10:26
     numeroFacture : 953
@@ -119,7 +119,7 @@ journal:
       Quantité : 2
       Unité vente: article
       Prix Unité vente : 750
-  - idPanier: 953
+  - idPanier: 956
     datePanier : 08-04-2022
     heureanier : 10:26
     numeroFacture : 953
